@@ -1,4 +1,3 @@
-# AeroShield-AI
 # AeroShield AI
 ### AI-Based Fire & Smoke Detection with Automatic Sprinkler System
 
